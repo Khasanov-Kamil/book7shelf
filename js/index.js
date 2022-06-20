@@ -15,10 +15,6 @@ fetch('https://api.mcsrvstat.us/2/book7shelf.ru').then((response) => {
   }
 });
 
-
-
-
-
 const swiper = new Swiper('.swiper', { 
   // Optional parameters 
   direction: 'horizontal',

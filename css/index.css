@@ -7,6 +7,10 @@
   color: #fff;
   background: linear-gradient(113.28deg,#1A47EA 3.44%, #82E9FF 96.25%);
 }
+.users img{
+  width: 200px;
+  height: 200px;
+}
 .nav{
   min-width: 100%;
   display: flex;
