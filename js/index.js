@@ -1,6 +1,6 @@
 console.log('hi')
 let brg = document.querySelector('.burger'),
-    online = document.querySelector('.phone__info span');
+    online = document.querySelector('.content__online span');
 brg.addEventListener('click', () =>{
   brg.classList.toggle('burger__active')
   document.querySelector('.nav__links').classList.toggle('nav__links-active')

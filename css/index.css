@@ -90,6 +90,11 @@
 .content__subtitle{
   font-size: 14px;
   font-weight: 600;
+  margin-bottom: 12px;
+}
+.content__online{
+  font-size: 14px;
+  font-weight: 600;
   margin-bottom: 44px;
 }
 .content__line{
@@ -144,8 +149,9 @@
 }
 .phone{
   position: relative;
-  width: 200px;
+  width: 100%;
   margin-bottom: 45px;
+  animation: line 3s linear infinite ;
 }
 .phone__data{
   width: 100%;
